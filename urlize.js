@@ -1,4 +1,4 @@
-var urlize = (function () {
+exports.urlize = (function () {
 
 
 // From http://blog.stevenlevithan.com/archives/cross-browser-split

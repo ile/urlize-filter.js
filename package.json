@@ -1,0 +1,10 @@
+{
+    "name": "urlize",
+    "version": "0.1.0",
+    "description": "JavaScript port of Django's function for converting URLs in text into clickable links.",
+    "contributors": [{ "name": "Vebjorn Ljosa", "email": "vebjorn@ljosa.com" }, { "name": "Ilkka Huotari", "email": "ilkkah@gmail.com" }],
+    "homepage": "https://github.com/ile/urlize.js",
+    "directories" : { "lib" : "./lib" },
+    "main" : "./lib/urlize",
+    "engines": { "node": ">= 0.3.7" }
+}
