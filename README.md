@@ -1,4 +1,4 @@
-urlize.js
+urlize-filter.js
 =========
 
 Converts any URLs in text into clickable links.
