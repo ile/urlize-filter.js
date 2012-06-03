@@ -3,6 +3,8 @@ urlize.js
 
 Converts any URLs in text into clickable links.
 
+Converted into Node module from https://github.com/ljosa/urlize.js.
+
 Works on http://, https://, www. links, and also on links ending in
 one of the original seven gTLDs (.com, .edu, .gov, .int, .mil, .net,
 and .org).  Links can have trailing punctuation (periods, commas,
