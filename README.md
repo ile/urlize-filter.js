@@ -9,7 +9,7 @@ and .org).  Links can have trailing punctuation (periods, commas,
 close-parens) and leading punctuation (opening parens) and it'll still
 do the right thing.
 
-Converted into Node module from https://github.com/ljosa/urlize.js.
+Converted into a Node module from https://github.com/ljosa/urlize.js.
 
 Usage
 -----
